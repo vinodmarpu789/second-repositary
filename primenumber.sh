@@ -1,4 +1,4 @@
-""" prime numbers added up to 1000 "
+""" prime numbers added up to 1000  and  "
 I=0
 while [ $I -lt 101]
 do
